@@ -5088,16 +5088,15 @@
       }
   
   /* ====================== [ End Responsive ] ====================== */
-  © 2021 GitHub, Inc.
-  Terms
-  Privacy
-  Security
-  Status
-  Docs
-  Contact GitHub
-  Pricing
-  API
-  Training
-  Blog
-  About
+
+
+
+  @media screen and (max-width: 600px) {
+
+    .bg-img {
+    background-position: center !important;
+    background-size: cover !important;
+    }
+  }
+  
   
