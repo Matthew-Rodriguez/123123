@@ -5091,12 +5091,10 @@
 
 
 
-  @media screen and (max-width: 600px) {
+ @media screen and (max-width: 600px) {
 
-    .bg-img {
-    background-position: center !important;
-     background-size: contain !important;
-    }
+    .bac  {
+   background-position: unset;
   }
-  
+  }
   
