@@ -5101,9 +5101,10 @@
           
           .bac {
            
-    background-attachment: unset; 
-    background-position: center;
-  }
+    background-attachment: unset !important; 
+    background-position: center !important;
+    padding-bottom: unset !important;
+  }   
           }
       
     
