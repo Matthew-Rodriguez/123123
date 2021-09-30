@@ -5095,7 +5095,7 @@
 
     .bg-img {
     background-position: center !important;
-    background-size: cover !important;
+     background-size: 1000px 900px !important;
     }
   }
   
